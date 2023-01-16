@@ -14,7 +14,6 @@ height: 100%;
 }
 .background {
     height: 100%;
-    background-image: url("/home/justoo/Mypersonalwebsite/resources/images/pexels-tomas-anunziata-412026.jpg");
     background-position: center;
     background-size: cover;
     margin: 0%;
@@ -44,13 +43,4 @@ height: 100%;
     text-align: center;
     margin: 30px 20px;
 }
-.navigation{
-    display: block;
-    float: right;
-}
-.navigation a{
-    color: gold;
-    text-align: center;
-    padding: 14px 16px;
 
-}
