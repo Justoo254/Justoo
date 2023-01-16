@@ -1,0 +1,27 @@
+body, html{
+    height: 100%;
+    margin: 0%;
+    background-image: url("/home/justoo/Mypersonalwebsite/resources/images/pexels-tomas-anunziata-412026.jpg");
+    background-attachment: fixed;
+  }
+  p{
+  
+    color: rgba(255, 255, 255, 0.5);
+    font-weight: 100;
+    font-size: 22px;
+    padding-bottom: 30px;
+    margin: auto;
+    max-width: 800px;
+    font-family: Georgia;
+  }
+    h1 {
+        line-height: 24px;
+        color: #FFF !important;
+        font-size: 2em;
+        padding-top: 100px;
+        width: 100%;
+        font-family: Georgia;
+        text-align: center;
+        text-decoration-line: underline ;
+      }
+  
